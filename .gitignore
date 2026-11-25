@@ -1,2 +1,8 @@
 .DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+downloads/
+output_clips/
+.streamlit/secrets.toml
 
